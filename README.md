@@ -1,2 +1,2 @@
-# coordinate
-china cities coordinates
+# coordinates
+chinese cities coordinates
